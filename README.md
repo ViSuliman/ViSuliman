@@ -1,5 +1,8 @@
 ## Oiii! Eu sou a Vitória Suliman!
 
+* 📚 Análise e Desenvolvimento de Sistemas - SPTech, São Paulo Tech School 2/5;
+  
+
 ### Habilidades
 <div style="display: inline_block"><br>
   <img align="center" alt="Vi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
