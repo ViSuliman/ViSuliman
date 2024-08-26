@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Vitória Suliman!
+## Oii!☺️ Eu sou a Vitória Suliman!!✨
 
 * 📚 Análise e Desenvolvimento de Sistemas - SPTech, São Paulo Tech School 2/5;
   
