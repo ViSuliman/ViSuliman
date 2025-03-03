@@ -1,6 +1,6 @@
 ## Oii!☺️ Eu sou a Vitória Suliman!!✨
 
-* 📚 Análise e Desenvolvimento de Sistemas - SPTech, São Paulo Tech School 2/5;
+* 📚 Análise e Desenvolvimento de Sistemas - SPTech, São Paulo Tech School 3/5;
   
 
 ### Habilidades
